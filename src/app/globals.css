@@ -100,7 +100,7 @@ article {
   display: grid;
   grid-template-columns: 240px minmax(0, 1fr);
   width: 270mm;
-  min-height: 250mm;
+  min-height: 2mm;
   margin: 0 auto 30px;
   background: white;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
