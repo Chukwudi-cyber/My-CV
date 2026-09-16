@@ -108,7 +108,7 @@ export default function Sidebar() {
             />
 
             <span>
-              Phone available on request
+              09051602849
             </span>
           </div>
 
