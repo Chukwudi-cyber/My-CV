@@ -24,7 +24,7 @@ export default function Education() {
           <div className="flex flex-col justify-between gap-2 sm:flex-row sm:items-start">
             <div>
               <h3 className="text-base font-bold text-zinc-900">
-                Bachelor&apos;s Degree
+                Bachelor&apos;s Degree in Electrical Engineering
               </h3>
 
               <p className="mt-1 text-sm font-semibold text-[#28744B]">
