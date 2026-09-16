@@ -23,7 +23,7 @@ export default function Experience() {
           <div className="flex flex-col justify-between gap-2 sm:flex-row sm:items-start">
             <div>
               <h3 className="text-base font-bold text-zinc-900">
-                Frontend Web Development
+                Frontend Web Developer
               </h3>
 
               <p className="mt-1 text-sm font-semibold text-[#28744B]">
@@ -70,7 +70,7 @@ export default function Experience() {
           <div className="flex flex-col justify-between gap-2 sm:flex-row sm:items-start">
             <div>
               <h3 className="text-base font-bold text-zinc-900">
-                Physics Teacher — NYSC
+                Physics Teacher - NYSC
               </h3>
 
               <p className="mt-1 text-sm font-semibold text-[#28744B]">

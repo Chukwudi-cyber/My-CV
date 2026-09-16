@@ -50,11 +50,11 @@ export default function Education() {
           <div className="flex flex-col justify-between gap-2 sm:flex-row sm:items-start">
             <div>
               <h3 className="text-base font-bold text-zinc-900">
-                Frontend Web Development Training
+                Frontend Web Developer
               </h3>
 
               <p className="mt-1 text-sm font-semibold text-[#28744B]">
-                Professional Training
+                Professional Development
               </p>
             </div>
 
@@ -66,8 +66,8 @@ export default function Education() {
           </div>
 
           <p className="mt-3 text-sm leading-6 text-zinc-600">
-            Practical training in HTML, CSS, JavaScript, Bootstrap,
-            Tailwind CSS, responsive web design, React, and Next.js.
+            Frontend development experience with HTML, CSS, JavaScript, Bootstrap,
+            Tailwind CSS, Responsive web design, React, and Next.js.
           </p>
         </div>
 
